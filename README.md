@@ -3,7 +3,7 @@
 ### 💬 Tell me some projects to work on!
 ### 📫 Where to find me: Twitter - https://www.twitter.com/sahil_ohe Mail me - sahilohe97@gmail.com
 
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilohe)](https://github.com/sahilohe/github-readme-stats)
+[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilohe)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sahilohe/sahilohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
