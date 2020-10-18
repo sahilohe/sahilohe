@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Python, Swift
+### 🌱 I’m currently learning Python, Java
 ### 💬 Tell me some projects to work on!
 ### 📫 Where to find me: Twitter - https://www.twitter.com/sahil_ohe Mail me - sahilohe97@gmail.com
 
