@@ -1,8 +1,8 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Java
+### 🌱 I’m currently learning JS
 ### 💬 Tell me some projects to work on!
 ### Give me some Python Automation Ideas
-### 📫 Where to find me: Twitter - https://www.twitter.com/sahil_ohe Mail me - sahilohe97@gmail.com
+### 📫 Where to find me: Twitter - https://www.twitter.com/sahil_ohe | Mail me - sahilohe97@gmail.com
 
 [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilohe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
